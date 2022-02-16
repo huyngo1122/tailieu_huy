@@ -1,0 +1,5 @@
+
+arduino 	led
+10		CLR
+11		CS
+12		Din

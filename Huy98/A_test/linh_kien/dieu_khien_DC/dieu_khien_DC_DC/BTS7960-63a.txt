@@ -1,0 +1,5 @@
+cap nguon ra  (6-27v) B+, B- 
+nguon nuoi mach 5v (VCC, GND)
+R_EN(1), L_EN (1)
+RPWN, LPWN dao chieu dong co, muc logic (0-1)   (R=1, L=0-thuan(nguoc lai R-L))
+trong qua trinh test xem dong ra co dao dong ko(kiem tra tinh trang mach xem co hu hong j khong)

@@ -1,0 +1,12 @@
+https://dronebotworkshop.com/dc-motors-l298n-h-bridge/
+dien ap dau vao 5v-46v >><< L298 5v-30v
+(khong nen cap nguon 46v vi se lam on ap 7805 nong va dan den hu hong)
+* kiem tra cac jum ket noi da du chua
+* khi cap nguon tren 12v (phai thao jum 5V-EN ra )
+$$ khi cap nguon cho mach
+- 4 den tu in1-in4 sang yeu
+- den 5v sang
+- ket noi theo so do chan da luu trong (anh)
+- khi IN 1 - IN 4 co dien ap 5v cap vao thi den tuong ung se sang manh, khi cap gnd vao thi den tat
+- khi chua co dien ap 5v cap vao thi cac chan IN1-4 se co dien ap khoan 2v
+    

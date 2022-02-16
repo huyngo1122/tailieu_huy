@@ -1,0 +1,8 @@
+so do chan
+- DO - VCC
+- DEN - GND
+- vang - OUT
+dien ap hoat dong 3,3-12v
+dau ra dang xung
+test
+** chan out ket noi day vang -  thoi vao cam bien, quan sat bong den chop

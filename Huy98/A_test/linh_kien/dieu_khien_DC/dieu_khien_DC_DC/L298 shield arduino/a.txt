@@ -1,0 +1,8 @@
+nap chuong trinh tren arduino- cam shield - do VOM dien ap  dao chieu dong co 2 cau H
+link-() https://electropeak.com/learn/interfacing-l298p-h-bridge-motor-driver-shield-with-arduino/
+kiem tra den bao chuyen trang thai (vang-xanh), kt coi
+cap nguon 9 V vao arduino hoac vao chan VMS, GND =>> ngo ra motor mat 1.2v=>> (qua cau H mat khoan 1,2V)
+TEST khi khong nap arduino
+- cap nguon vao VSM, GND, ENA, ENB, 
+- PWMA, PWMB (dieu khien toc do dong co max5v)
+- MA1,2, MB1,2 ngo ra dong co

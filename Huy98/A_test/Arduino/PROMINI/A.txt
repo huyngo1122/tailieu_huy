@@ -1,0 +1,14 @@
+PRO MINI co 2 loai (3,3-5v)
+- 3,3v sai thach anh 8Mhz, 5v sai thuach anh 16Mhz
+* 3 cach nhan biet
++ cap nguon 5v vao chan RAW do dien ap VCC xem laf bao nhiu V,( neu dien ap vcc la 3,3v thi la pro 3,3, neu 5v thi la pro 5v ()), pro 3,3v co mach giam ap,
++ tren IDE arduino vao chuong trinh - tools - chon thach anh - neu dung so Vol - sau khi nap chuong trinh, vao serial monitor chuong trinh se doc duoc gia tri, neu sai thi se khong doc duoc
++ mat sau pro mini xem thong so (5v or 3,3v)
+* ket noi: 
+- de nap duoc arduino pro mini can mach nap usb UART
+- ket noi:
++ chan TX-> RX, RX->TX, 2 chan nguon GND, VCC, chan RST(DTR)-> GRN
+* trang thai khi nap chuong trinh:
+- khi cap nguon thi den ban nguon (mau xanh) sang,den reset mau do chop lien tuc; trong qua trinh nap chuong trinh: den xanh sang, den do reset tat, sau khi nap chuong trinh xong, den do sang chop lien tuc, 
+**luu y(): pro mini 3,3 phai lay nguon 3,3v tu usb, 5v phai lay nguon 5v tu usb
++ khong nen lay nguon qua 5v cho pro mini vi se lam cho pro mini DIE

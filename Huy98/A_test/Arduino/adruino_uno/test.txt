@@ -1,0 +1,10 @@
+den L_ khi chua nap_chop
+khi nap xong_den L sang
+loi ket reset_ 
+# khi test arduino cho khach
+- nap chuong trinh_ket noi module_test
+** LUU Y
+cap nguon 6v cho arduino
+-khi cap nguon co dien ap cao hon 6v
+- dien ap du tren 7805 se la (dien ap dau vao-6v*dong tai su dung tren arduino)
+** dongf cang cao va dien ap cang cao thi 7805 se nong va co the DIE

@@ -1,0 +1,12 @@
+Model: XKC-Y25-PNP.
+dien ap su dung: 5 ~12VDC.
+Dòng tiêu thu: 200mA
+
+Ngõ ra: keo tro 10k xuong GND
+
+
+
+nâu: VCC .
+vàng: OUTPUT SIGNAL, 
+xanh duong: GND, Chân mass 0VDC.
+Ðen: Mode, binh thuong la muc thap GND neu keo day xuong GND, neu muon ngo ra kich hoat muc cao thi keo len VCC

@@ -1,0 +1,3 @@
+test IN_OUT cac chan
+loi
+test thong mach-on ap-cac chan vao ra_kiem tra dim
